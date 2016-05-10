@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ailleron.UndoRedoStack", "Ailleron.UndoRedoStack\Ailleron.UndoRedoStack.csproj", "{EEC3964D-1AB8-4265-8C24-0F55B24D9289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ailleron.UndoRedoStack.Tests", "Ailleron.UndoRedoStack.Tests\Ailleron.UndoRedoStack.Tests.csproj", "{DC12DEEE-0EBF-45CC-9661-023586F851F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC3964D-1AB8-4265-8C24-0F55B24D9289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC3964D-1AB8-4265-8C24-0F55B24D9289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC3964D-1AB8-4265-8C24-0F55B24D9289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC3964D-1AB8-4265-8C24-0F55B24D9289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC12DEEE-0EBF-45CC-9661-023586F851F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC12DEEE-0EBF-45CC-9661-023586F851F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC12DEEE-0EBF-45CC-9661-023586F851F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC12DEEE-0EBF-45CC-9661-023586F851F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
